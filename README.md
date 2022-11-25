@@ -7,5 +7,5 @@ This project is a react application that allows users to search the Spotify libr
 Project is complete.
 
 ## Contact
-Created by Paolo Cantoreggi - feel free to contact me!
+Created by Paolo Cantoreggi - feel free to contact me!  
 email: paolo.cantoreggi@gmail.com - https://www.pityafinwe.com/
