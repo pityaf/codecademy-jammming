@@ -1,5 +1,5 @@
 # Jammming project
-### from codecademy front-end career path
+### Project from codecademy front-end career path
 
 This project is a react application that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
 
