@@ -8,4 +8,5 @@ Project is complete.
 
 ## Contact
 Created by Paolo Cantoreggi - feel free to contact me!  
-email: paolo.cantoreggi@gmail.com - https://www.pityafinwe.com/
+email: paolo.cantoreggi@gmail.com  
+website: https://www.pityafinwe.com/
